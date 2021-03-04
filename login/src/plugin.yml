@@ -1,0 +1,13 @@
+name: graf
+main: graf.graf
+version: 1
+api-version: 1.13
+
+commands:
+    test:
+    register:
+    reg:
+    r:
+    l:
+    login:
+    log:

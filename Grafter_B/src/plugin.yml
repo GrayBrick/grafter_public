@@ -1,0 +1,6 @@
+name: Graf
+main: graf.graf
+version: 1
+
+commands:
+    test:

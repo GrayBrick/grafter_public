@@ -1,0 +1,28 @@
+name: graf
+main: own.graf
+version: 1
+api-version: 1.13
+
+commands:
+  test:
+  gradient:
+  rg:
+  set:
+  m:
+  sendfromto:
+  spawn:
+  home:
+  sethome:
+  to:
+  toPrice:
+  money:
+  me:
+  war:
+  i:
+  rtp:
+  tell:
+  w:
+  road:
+  mute:
+  fraction:
+  fr:
